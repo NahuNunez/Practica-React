@@ -1,4 +1,5 @@
 import { useState } from 'react'
+
 import PeopleCounter from './components/PeopleCounter'
 
 function App() {
@@ -7,6 +8,14 @@ function App() {
   return (
     <>
     <PeopleCounter/>
+
+import CalculoPropina from './components/CalculoPropina'
+
+function App() {
+
+  return (
+    <>
+      <CalculoPropina/>
     </>
   )
 }
